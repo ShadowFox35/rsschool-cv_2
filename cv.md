@@ -27,5 +27,7 @@ I am a responsible and purposeful person and I love learning new things.
 - - -
 ## Languages:
 ***Russian*** Native
+
 ***Belarussian*** Native
+
 ***English*** B2
