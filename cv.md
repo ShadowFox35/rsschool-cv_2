@@ -1,4 +1,4 @@
-![icon](https://user-images.githubusercontent.com/94312514/147876233-a125d97a-a31f-4db4-8d5f-6fbbe3686ed0.png?size=200x200)
+![icon](https://user-images.githubusercontent.com/94312514/147876233-a125d97a-a31f-4db4-8d5f-6fbbe3686ed0.png?size=100x100&quality=96&crop=402,188,499,499&ava=1 "My photo")
 
 ## Name:
 ***Anastasia***
