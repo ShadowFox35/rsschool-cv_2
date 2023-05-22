@@ -1,7 +1,7 @@
 ![foto](https://user-images.githubusercontent.com/94312514/147876802-1c583096-3adb-4ec7-b5d4-7f74629bdbb1.png)
 
 ## Name:
-***Anastasia
+***Anastasia***апро***оол***
 ## Surname:
 ***Chernova***
 - - -
